@@ -2,7 +2,7 @@
 
 # Abstract
 
-This was a project for MATH 6450A, Statistical Machine Learning, completed with my partner Yi-Su Lo. Using a dataset from Kaggle, we attempted to automatically diagnose patients with schizophrenia. After performing PCA and model selection, we found that scikit-learn’s naïve SVM was sufficient to place us 22nd in the competition, on the private leaderboard. 
+This was a project for MATH 6450A, Statistical Machine Learning, completed with my partner Yi-Su Lo. Using a dataset from Kaggle, we attempted to automatically diagnose patients with schizophrenia. After performing PCA and model selection, we found that scikit-learn’s naïve SVM was sufficient to place us 22nd in the competition, on the private leader board. 
 
 # Skills
 
